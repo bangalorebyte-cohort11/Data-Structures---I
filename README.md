@@ -1,7 +1,9 @@
 # Data-Structures---I
 Big (O), Stacks and Queues
 
+**Resources**
 
+Big (O): https://www.youtube.com/watch?v=v4cd1O4zkGw
 
 **Exercises** 
 
